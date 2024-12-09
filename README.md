@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://www.frontendmentor.io/solutions/social-links-profile-html-css-bzg18nm4HA)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-html-css-bzg18nm4HA](https://https://www.frontendmentor.io/solutions/social-links-profile-html-css-bzg18nm4HA)
 - Live Site URL: [https://social-links-profile-challenge-akd.netlify.app/](https://https://social-links-profile-challenge-akd.netlify.app/)
 
 ## My process
